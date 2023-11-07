@@ -9,3 +9,6 @@ Batman
 i mentor sono:
 - Roberto
 - Emanuele
+
+gli studenti sono:
+FulmineGiallo
