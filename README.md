@@ -42,3 +42,5 @@ i mentor sono:
 - Emanuele
 
 Partecipazione straordinario di GUARDIOMEN!
+
+LA CLASSE NON è ACQUA MA VODKA ALLA FRAGOLA
