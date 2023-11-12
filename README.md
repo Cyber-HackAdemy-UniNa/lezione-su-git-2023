@@ -11,15 +11,19 @@ lezione sui fork, gli studenti della cyberhackademy 2023 sono (potete usare anch
 - Acqua Orsini
 - Lorenzo
 - Umberto
+- Domenico
+- Giuseppe
+- Alex 
+- Valerie
 - i'm the king
+- flo
 - Vincenzo Milano
 - 
 - 
 - 
 - 
 - 
-- 
-- 
+- Marcello
 - 
 - 
 - 
@@ -43,3 +47,5 @@ i mentor sono:
 - Emanuele
 
 Partecipazione straordinario di GUARDIOMEN!
+
+LA CLASSE NON è ACQUA MA VODKA ALLA FRAGOLA (by flo)
