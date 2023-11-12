@@ -16,7 +16,7 @@ lezione sui fork, gli studenti della cyberhackademy 2023 sono (potete usare anch
 - Alex 
 - Valerie
 - i'm the king
-- 
+- flo
 - 
 - 
 - 
@@ -47,3 +47,5 @@ i mentor sono:
 - Emanuele
 
 Partecipazione straordinario di GUARDIOMEN!
+
+LA CLASSE NON è ACQUA MA VODKA ALLA FRAGOLA (by flo)
