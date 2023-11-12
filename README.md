@@ -12,6 +12,10 @@ lezione sui fork, gli studenti della cyberhackademy 2023 sono (potete usare anch
 - Lorenzo
 - Umberto
 - Domenico
+- Giuseppe
+- Alex 
+- Valerie
+- i'm the king
 - 
 - 
 - 
@@ -19,6 +23,7 @@ lezione sui fork, gli studenti della cyberhackademy 2023 sono (potete usare anch
 - 
 - 
 - 
+- Marcello
 - 
 - 
 - 
